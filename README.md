@@ -28,7 +28,7 @@
 ## Level 3 - 팀 프로젝트
 |Project Name|Repository|
 |:--:|:--:|
-|DEVEL UP|[Repository]([https://github.com/Minjoo522/spring-roomescape-admin/tree/step1](https://github.com/woowacourse-teams/2024-devel-up))|
+|DEVEL UP|[Repository](https://github.com/woowacourse-teams/2024-devel-up)|
 
 ## Level 4
 |No.|Mission Name|Repository|PR|
